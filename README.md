@@ -2,7 +2,7 @@
 
 File icons for Atom.
 
-![Screenshot](https://raw.githubusercontent.com/williambout/Nucleon/master/nucleon.png)
+![Screenshot](https://github.com/williambout/Nucleon/blob/master/nucleon.png?raw=true)
 
 ### Options
 
