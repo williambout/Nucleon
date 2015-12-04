@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <clipPath id="_clip1">
+        <path d="M4,6.667L1.8,3L4,3L4,6.667ZM8,6.667L8,3L10.2,3L8,6.667ZM6,10L5,8.333L5,2L1.2,2L0,0L12,0L10.8,2L7,2L7,8.333L6,10Z"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <rect x="-4" y="-5" width="20" height="20" style="fill:rgb(212,163,44);fill-rule:nonzero;"/>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+{
+  "name": "Nucleon",
+  "main": "./lib/nucleon",
+  "version": "0.0.0",
+  "description": "File icons for Atom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/williambout/nucleon"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "readme": "# Nucleon\n\nImprove recognizability of files in Tree View.\n\n![Screenshot](https://raw.githubusercontent.com/williambout/Nucleon/master/nucleon.png)\n\n### Options\n\nLight : Optimized color for light themes\n\nTab Pane Icon : Icons on tab pane\n\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/williambout/nucleon/issues"
+  },
+  "homepage": "https://github.com/williambout/nucleon"
+}

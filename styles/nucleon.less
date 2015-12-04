@@ -1,0 +1,146 @@
+// The ui-variables file is provided by base themes provided by Atom.
+//
+// See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
+// for a full listing of what's available.
+@import "icons";
+@import "items";
+@import "ui-variables";
+
+.tab:not(.active) .title:before{
+  opacity: .4;
+}
+
+.icon-file-directory {
+  &:before {
+    .folder-icon;
+  }
+}
+.nucleon-tab-pane-icon @{pane-tab-selector},
+.icon-file-text {
+
+  // Generique
+  &:before {
+    .other-icon;
+  }
+
+  // Text
+  &[data-name$=".html"]:before {
+    .text-icon;
+  }
+  &[data-name$=".htm"]:before {
+    .text-icon;
+  }
+  &[data-name$=".shtml"]:before {
+    .text-icon;
+  }
+  &[data-name$=".haml"]:before {
+    .text-icon;
+  }
+  &[data-name$=".jade"]:before {
+    .text-icon;
+  }
+  &[data-name$=".jsp"]:before {
+    .text-icon;
+  }
+  &[data-name$=".ctp"]:before {
+    .text-icon;
+  }
+  &[data-name$=".ejs"]:before {
+    .text-icon;
+  }
+  &[data-name$=".swig"]:before {
+    .text-icon;
+  }
+  &[data-name$=".cshtml"]:before {
+    .text-icon;
+  }
+  &[data-name$=".kit"]:before {
+    .text-icon;
+  }
+  &[data-name$=".md"]:before {
+    .text-icon;
+  }
+
+  // Program
+  &[data-name$=".js"]:before {
+    .program-icon;
+  }
+  &[data-name$=".coffee"]:before {
+    .program-icon;
+  }
+
+  // Data
+  &[data-name$=".xml"]:before {
+    .data-icon;
+  }
+  &[data-name$=".json"]:before {
+    .data-icon;
+  }
+
+  // Font
+  &[data-name$=".ttf"]:before {
+    .font-icon;
+  }
+  &[data-name$=".woff"]:before {
+    .font-icon;
+  }
+  &[data-name$=".eot"]:before {
+    .font-icon;
+  }
+  &[data-path*="font"]:before, &[data-path*="fonts"]:before {
+    .font-icon!important;
+  }
+
+  // Style
+  &[data-name$=".less"]:before {
+    .style-icon;
+  }
+  &[data-name$=".css"]:before {
+    .style-icon;
+  }
+  &[data-name$=".scss"]:before {
+    .style-icon;
+  }
+  &[data-name$=".styl"]:before {
+    .style-icon;
+  }
+
+  // Image
+  &[data-name$=".svg"]:before {
+    .image-icon;
+  }
+}
+//Font
+.icon-file-binary{
+  &[data-name$=".woff"]:before {
+    .font-icon;
+  }
+}
+
+
+// Image
+.icon-file-media[data-name$=".png"]:before {
+  .image-icon;
+}
+.icon-file-media[data-name$=".gif"]:before {
+  .image-icon;
+}
+.icon-file-media[data-name$=".jpg"]:before {
+  .image-icon;
+}
+.icon-file-media[data-name$=".jpeg"]:before {
+  .image-icon;
+}
+.icon-file-media[data-name$=".tiff"]:before {
+  .image-icon;
+}
+
+//Book
+.icon-book:before {
+  .book-icon;
+}
+
+//TODO Sketch
+.nucleon {
+
+}
