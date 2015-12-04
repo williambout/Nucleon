@@ -1,7 +1,7 @@
 {
   "name": "Nucleon",
   "main": "./lib/nucleon",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "File icons for Atom",
   "repository": {
     "type": "git",
