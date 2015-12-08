@@ -1,5 +1,5 @@
 {
-  "name": "Nucleon",
+  "name": "nucleon",
   "main": "./lib/nucleon",
   "version": "1.0.0",
   "description": "File icons for Atom",
