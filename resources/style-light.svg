@@ -64,7 +64,7 @@
             <rect x="-3" y="-3" width="20" height="20"/>
         </clipPath>
         <g clip-path="url(#_clip12)">
-            <rect x="-0.5" y="-5" width="14" height="14" style="fill:rgb(226,199,39);fill-rule:nonzero;"/>
+            <rect x="-0.5" y="-5" width="14" height="14" style="fill:rgb(239,175,31);fill-rule:nonzero;"/>
         </g>
     </g>
 </svg>
