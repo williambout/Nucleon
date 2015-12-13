@@ -6,3 +6,6 @@
 
 ## 1.0.2
 * Improved color for Light Mode.
+
+## 1.0.3
+* Updated readme.
