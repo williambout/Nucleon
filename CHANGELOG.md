@@ -9,3 +9,6 @@
 
 ## 1.0.3
 * Updated readme.
+
+## 1.0.4
+* Updated screenshot.
